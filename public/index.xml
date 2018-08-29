@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aegnaintis on Aegna</title>
+    <link>https://aegnaintis.github.io/</link>
+    <description>Recent content in Aegnaintis on Aegna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aegnaintis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kunerga</title>
+      <link>https://aegnaintis.github.io/races/kunerga/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/kunerga/</guid>
+      <description>Background The Story of the Kunerga is a sad tale of how the strong can trample the weak and has left the majority of their race as nothing more than property. Originating in the shifting mountains of Kiksuz the Goblin like Kunerga are the smallest of the races in Crucis by far. In their homelands this size was a benefit to them as food and resources were hard to come by and their small bodies needed less food to keep going.</description>
+    </item>
+    
+    <item>
+      <title>Luamis</title>
+      <link>https://aegnaintis.github.io/races/luamis/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/luamis/</guid>
+      <description>Background Like the Kunerga the Luamis are a slave race that encountered the Noans early in their development. Despite being larger than their Baal enemies the Cyclopean Luamis, then called the Manok, were beaten back after their initial success and because their invasion ended in the sacking of Noa their fate was the worst of all the races that Noa has conquered. In an act that still haunts the Luamis to this day the Noans hunted down almost all their adults and executed them, this was to more effectively do what they had attempted to do with the Kunerga.</description>
+    </item>
+    
+    <item>
+      <title>Crucis</title>
+      <link>https://aegnaintis.github.io/crucis/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/crucis/</guid>
+      <description>Background Welcome, friends, to Crucis. A world similar to our own in landscape but little else. Split into 6 large territories these lands provide opportunity and tragedy in equal parts. To the South East lies Contis, seat of the mighty Noan Republic whose power extends over most of the known world. Their lands are rife with political intrigue and as the centre of the largest power in the world many forces are at play within its borders.</description>
+    </item>
+    
+    <item>
+      <title>Hara Mori</title>
+      <link>https://aegnaintis.github.io/races/hara-mori/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/hara-mori/</guid>
+      <description>Background The Hara Mori are a race of centaurs that are native to Haǯar (pronounced Ha-jar) on the mainland. The life of the Hara Mori is usually split into two groups, roaming hoards, or Aghau, and the villages who provide food for the Hoards, called Žolo (Jol-o). It is said that long ago two brothers had such enormous hoards at their command that resources began running out. The Brothers agreed that some of their people had to till the land and grow food for the rest of the Hara Mori, who would continue the true path of the Aghau.</description>
+    </item>
+    
+    <item>
+      <title>Vodnik</title>
+      <link>https://aegnaintis.github.io/races/vod/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/vod/</guid>
+      <description>Background Life for the Vodnik, a frog like people native to the Aruna Rohe region, relies heavily on the care of various birthing pools. Called Waika Laia, these pools are where Vod lay their eggs and leave them to grow to infancy. Each pool usually nurtures the eggs of many surrounding villages and so throughout their history tribes have sought control of these vital locations. With this control comes the power to dictate how many offspring the surrounding tribes can have, if any, and so control the population of any who dare oppose them.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aegnaintis.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/about/</guid>
+      <description>A succinct description of what this is all about.</description>
+    </item>
+    
+    <item>
+      <title>Baal</title>
+      <link>https://aegnaintis.github.io/races/baal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/baal/</guid>
+      <description>Background In Crucis the Minotaur race of the Baal has become almost synonymous with the Noan Republic and while most of their kingdoms are part of the Republic they are not all considered Noan Citizens. It is this distinction that causes many to chafe under its rule and wish for a return of the time they ruled themselves. Many attempt to accomplish this within the confines of the Republic but historically, when Noa has been perceived to be weak, dissenters have sought to shake off the chains of their rulers and claim their country for themselves.</description>
+    </item>
+    
+    <item>
+      <title>Races</title>
+      <link>https://aegnaintis.github.io/races/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/races/</guid>
+      <description>Links to the various races of the world:
+The Vodnik
+A froggy race with a penchant for moisturising.
+The Baal
+Something about banks..?
+Hara Mori
+Kunerga
+Luamis
+Wolf men!</description>
+    </item>
+    
+    <item>
+      <title>Worlds</title>
+      <link>https://aegnaintis.github.io/worlds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/worlds/</guid>
+      <description>Links to the various worlds
+So far there&amp;rsquo;s only Crucis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worlds on Aegna</title>
+    <link>https://aegnaintis.github.io/worlds/</link>
+    <description>Recent content in Worlds on Aegna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aegnaintis.github.io/worlds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crucis</title>
+      <link>https://aegnaintis.github.io/crucis/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aegnaintis.github.io/crucis/</guid>
+      <description>Background Welcome, friends, to Crucis. A world similar to our own in landscape but little else. Split into 6 large territories these lands provide opportunity and tragedy in equal parts. To the South East lies Contis, seat of the mighty Noan Republic whose power extends over most of the known world. Their lands are rife with political intrigue and as the centre of the largest power in the world many forces are at play within its borders.</description>
+    </item>
+    
+  </channel>
+</rss>

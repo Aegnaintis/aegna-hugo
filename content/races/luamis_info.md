@@ -1,0 +1,28 @@
+---
+title: Luamis
+date: 2018-08-29
+parent: "races"
+url: "races/luamis"
+---
+
+## Background
+
+Like the Kunerga the Luamis are a slave race that encountered the Noans early in their development. Despite being larger than their Baal enemies the Cyclopean Luamis, then called the Manok, were beaten back after their initial success and because their invasion ended in the sacking of Noa their fate was the worst of all the races that Noa has conquered. In an act that still haunts the Luamis to this day the Noans hunted down almost all their adults and executed them, this was to more effectively do what they had attempted to do with the Kunerga. Rob them of their past and raise them as slaves whose culture is subservience. With the Luamis as a slave race the Noan's had a powerful addition to their armies and they have used this advantage in many of their battles to date.
+
+Many Luamis are still slaves and are used for manual labour or as manpower for the legions. They are born in Breeding houses and almost immediately a life is chosen for them. Those that become domestic slaves are often treated as nothing more than beasts of burden with the strength that their race is known for being exploited for the benefit of their Noan masters. The rest go to the legions and are trained to fight and die for the Republic. For these, at least, there is glory to be attained and their comrades become the family that is denied others of their race. Unlike the Kunerga, should a Luamis attain their freedom, their size and strength dissuades kidnap and so in more recent times they can be seen owning businesses and property of their own. There have even been those that have been granted Noan Citizenship though it is a rare occurrence.
+
+The Luamis are born as twins and this is at once their greatest strength and also their greatest weakness. From the little that has survived from the Noans attempt to purge their history it can be seen that in the past the intense familial bonds that exists among the Luamis, particularly with their twin or Diosk, had lead to long held grudges and in fighting that had come close to bringing their race to extinction. Stories like these are the often allowed by Noa to highlight the need that the Luamis have for the Noan's, that their continued existence depends on the destruction of these filial ties.
+
+Now the Luamis are separated from their Diosk at birth but many still find each other later in life. Once their bond is re-established the pair can be an incredible force but the nature of their connection is so intense that to even be separated from each other for a time can cause anguish and at times even be physically painful. When one of them dies this effect is even worse and the surviving Diosk usually does not last long. These are the Marg and they are the grief stricken who either find some way to kill themselves or simply waste away while they wallow in their sorrow. In the past the Marg have been used by the Noan's to great effect as they care nothing for their safety and once sent into battle they will attack anything until they die or there is nothing left to kill.
+
+Once a generation there is born a Luamis who has no twin and has two pupils in their single eye. Throughout their history these Hólos have been instruments of change for their race and they are believed to be the perfect form of their kind, two halves making a whole. One such Hólos was the creator of a group known as the Acantha, the thorn. Originally trying simply to reunite Luamis with their Diosk Anicetus eventually led a small revolution against Noa and was responsible for smuggling many Luamis away from their masters to live in the shifting mountains of Kiksuz with others of their kind and, hopefully, their Diosk. Gryphus, as he was known among the liberated, was eventually discovered and it is believed that the Acantha was wiped out, though whispers still speak of them and every Luamis dreams of Gryphus coming to liberate them.
+
+Greater than one Hólos being born however is the Triptych, three Hólos being born in the same generation and these have been momentous in the history of the the Luamis. The first is said to be when their race first unified under one rule, long before they were subjugated and it is believed that the time has finally come for another Triptych to change the balance of Crucis. Currently two Hólos are known to be alive in Crucis, Kratogenes and Paramonos, and both were sent north at the heads of two Luamis Legions to conquer Čagra. Hailed as Gryphus reborn, Kratogenes  has betrayed the Republic and taken his entire legion with him to become one of the leaders of the Coalition. Remaining loyal to Noa and thwarting Kratogenes whenever he can is Paramonos who enacts harsh vengeance on any Luamis who betray Noa. While these two have come to the fore there has yet to be any sign of a third to complete the Triptych and if they exist their location and loyalties are equally unknown.
+
+## The Boring Bits
+
+Tall and grey skinned the Luamis are one of the largest races in Crucis and their strength is such that on numerous occasions Noan legions have survived only due to the dedication and power shown by these one eyed behemoths. Other than the giant Errolan in the far north the Luamis are the tallest and physically strongest of the races inhabiting Crucis at an average height of 220cm for men and 210cm for women. Due to their one eye however their depth perception is not the best and so it is rare for them to be able to use any form of ranged weapon or see in fine detail. They can Grow white hair that many crop short for either their roles in the legions or in the homesteads.
+
+## Unique Roles
+
+* Rank in Luamis legions of Noa (rare after Kratogenes' betrayal).
